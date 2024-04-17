@@ -11,17 +11,18 @@ The Face Attendance System is an automated solution for tracking and managing at
 5 .Reporting: Generates CSV file for datewise attendance record & keep track of total attendance of each student in realtime database.
 
 ### Technologies Used
-Python: Programming language used for development. 
-OpenCV: Library for computer vision tasks, including face detection and recognition.
-Face Recognition Library: Provides pre-trained models and algorithms for face recognition.
-Firebase: Database and storage solution for storing user information and attendance data.
-Pandas: Library for data manipulation and analysis.
-CVZone: Library for computer vision utilities and enhancements.
+1. Python: Programming language used for development. 
+2. OpenCV: Library for computer vision tasks, including face detection and recognition.
+3. Face Recognition Library: Provides pre-trained models and algorithms for face recognition.
+4. Firebase: Database and storage solution for storing user information and attendance data.
+5. Pandas: Library for data manipulation and analysis.
+6. CVZone: Library for computer vision utilities and enhancements.
 
 ### Usage
-Setup: Install required dependencies and configure the system.
-Database: Populate the database with user information and images.
-Recognition: Start the system to recognize faces and record attendance.
-Reporting: Generate attendance reports as needed.
+#### Setup
+1. Install the required dependencies:
+   ##### pip install -r requirements.txt
+
+
 
 
